@@ -3,5 +3,5 @@
 Paquetes necesarios: 
 - pytest
 - requests
-\
-Ejecutar todas las pruebas con el comandy pytest
+\\\
+- Ejecutar todas las pruebas con el comandy pytest
