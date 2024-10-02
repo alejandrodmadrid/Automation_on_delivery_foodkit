@@ -2,7 +2,6 @@
 \
 Paquetes necesarios: 
 - pytest
-- requests,
-\
+- requests
 # Importante
 - Ejecutar todas las pruebas con el comandy pytest
