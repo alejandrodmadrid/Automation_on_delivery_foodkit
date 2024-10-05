@@ -11,5 +11,3 @@ Test totales: 9
 Paquetes necesarios: 
 - pytest
 - requests
-\
-Ejecutar todas las pruebas con el comando pytest ~\Desktop\Python\sprint_7\qa-project-Urban-Grocers-app-es
