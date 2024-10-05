@@ -11,4 +11,5 @@ En este codigo se ejecutan las automatizaciones para la prueba de entrada de dat
 Paquetes necesarios: 
 - pytest
 - requests
-Importante: Ejecutar los tests en la consola con pytest ~\Desktop\Python\sprint_7\qa-project-Urban-Grocers-app-es
+\
+##### Importante: Ejecutar los tests en la consola con pytest ~\Desktop\Python\sprint_7\qa-project-Urban-Grocers-app-es
